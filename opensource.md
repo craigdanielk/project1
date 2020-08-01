@@ -15,11 +15,11 @@ body{
 
 //CSS
 .container{
-  height:200px;
-  width:600px;
+  height:400px;
+  width:1200px;
   background:#fff;
   margin:0 auto;
-  border: 3px solid gold;
+  border: 5px solid gold;
 }
 .container p{
   text-align:center;
@@ -30,7 +30,7 @@ body{
 }
 .btns{
   margin:0 auto;
-  width:600px;
+  width:700px;
   text-align:center;
   margin-top:10px;
 }
